@@ -1,19 +1,21 @@
-# game
+# Catch the Falling Items 🎮
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A simple Flutter mini-game built using FlutLab. - https://flutlab.io
 
-## Getting Started
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Start screen with developer name
+- Interactive gameplay (catch falling objects)
+- Score and lives system
+- Game Over screen with restart option
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Built With
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Designed and tested using FlutLab
 
-## Getting Started: FlutLab - Flutter Online IDE
+## How to Run
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+1. Clone the repository
+2. Run flutter pub get
+3. Run flutter run
